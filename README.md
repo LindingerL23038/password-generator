@@ -5,13 +5,13 @@ A simple password generator for a school project. You can set the password lengt
 ## Installation
 
 ```bash
-npm install pwd-gen-4b
+npm install @lindingerl23038/pwd-gen-4b
 ```
 
 ## Usage
 
 ```js
-const genPwd = require('pwd-gen-4b');
+const genPwd = require('@lindingerl23038/pwd-gen-4b');
 
 // 16 characters, special characters allowed
 console.log(genPwd(16, true));
