@@ -1,7 +1,8 @@
 {
   "name": "pwd-gen-4b",
   "version": "0.1.0",
-  "description": "",
+  "description": "Password generator with configurable length and optional symbols",
+  "files": ["index.js"],
   "author": "Lorenz Lindinger",
   "type": "commonjs",
   "main": "index.js",
