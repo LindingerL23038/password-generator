@@ -1,6 +1,6 @@
 {
   "name": "@lindingerl23038/pwd-gen-4b",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Password generator with configurable length and optional symbols",
   "files": [
     "index.js"
